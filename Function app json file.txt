@@ -143,7 +143,7 @@ module.exports = async function (context, req) {
 curl -X POST "https://azurewebsites.net" \
   -H "Content-Type: application/json" \
   -d '{
-    "email": "angshumanskype@gmail.com",
+    "email": "test@gmail.com",
     "itemid": "101",
     "item": "Wireless Mouse",
     "price": 25.99
